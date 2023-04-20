@@ -1,0 +1,9 @@
+C:\Users\Hans\source\repos\AlmacenesPorAhi\AlmacenesPorAhi\bin\Debug\AlmacenesPorAhi.exe.config
+C:\Users\Hans\source\repos\AlmacenesPorAhi\AlmacenesPorAhi\bin\Debug\AlmacenesPorAhi.exe
+C:\Users\Hans\source\repos\AlmacenesPorAhi\AlmacenesPorAhi\bin\Debug\AlmacenesPorAhi.pdb
+C:\Users\Hans\source\repos\AlmacenesPorAhi\AlmacenesPorAhi\obj\Debug\AlmacenesPorAhi.csprojAssemblyReference.cache
+C:\Users\Hans\source\repos\AlmacenesPorAhi\AlmacenesPorAhi\obj\Debug\AlmacenesPorAhi.Form1.resources
+C:\Users\Hans\source\repos\AlmacenesPorAhi\AlmacenesPorAhi\obj\Debug\AlmacenesPorAhi.Properties.Resources.resources
+C:\Users\Hans\source\repos\AlmacenesPorAhi\AlmacenesPorAhi\obj\Debug\AlmacenesPorAhi.csproj.GenerateResource.cache
+C:\Users\Hans\source\repos\AlmacenesPorAhi\AlmacenesPorAhi\obj\Debug\AlmacenesPorAhi.exe
+C:\Users\Hans\source\repos\AlmacenesPorAhi\AlmacenesPorAhi\obj\Debug\AlmacenesPorAhi.pdb

@@ -1,0 +1,11 @@
+C:\Users\Alumnos\Desktop\AlmacenesPorAhi\AlmacenesPorAhi\obj\Debug\AlmacenesPorAhi_AOsorio.csproj.AssemblyReference.cache
+C:\Users\Alumnos\Desktop\AlmacenesPorAhi\AlmacenesPorAhi\obj\Debug\AlmacenesPorAhi_AOsorio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumnos\Desktop\AlmacenesPorAhi\AlmacenesPorAhi\obj\Debug\AlmacenesPorAhi_AOsorio.Form1.resources
+C:\Users\Alumnos\Desktop\AlmacenesPorAhi\AlmacenesPorAhi\obj\Debug\AlmacenesPorAhi.Properties.Resources.resources
+C:\Users\Alumnos\Desktop\AlmacenesPorAhi\AlmacenesPorAhi\obj\Debug\AlmacenesPorAhi_AOsorio.csproj.GenerateResource.cache
+C:\Users\Alumnos\Desktop\AlmacenesPorAhi\AlmacenesPorAhi\obj\Debug\AlmacenesPorAhi_AOsorio.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\AlmacenesPorAhi\AlmacenesPorAhi\obj\Debug\AlmacenesPorAhi.exe
+C:\Users\Alumnos\Desktop\AlmacenesPorAhi\AlmacenesPorAhi\obj\Debug\AlmacenesPorAhi.pdb
+C:\Users\Alumnos\Desktop\AlmacenesPorAhi\AlmacenesPorAhi\bin\Debug\AlmacenesPorAhi.exe.config
+C:\Users\Alumnos\Desktop\AlmacenesPorAhi\AlmacenesPorAhi\bin\Debug\AlmacenesPorAhi.exe
+C:\Users\Alumnos\Desktop\AlmacenesPorAhi\AlmacenesPorAhi\bin\Debug\AlmacenesPorAhi.pdb
